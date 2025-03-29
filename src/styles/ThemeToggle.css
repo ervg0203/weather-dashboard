@@ -1,0 +1,44 @@
+.theme-toggle {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: var(--card-bg);
+  border: none;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 3px 8px var(--shadow-color);
+  transition: transform 0.3s ease-in-out;
+}
+
+.theme-toggle .icon {
+  font-size: 20px;
+  color: var(--text-color);
+}
+
+.theme-toggle:hover {
+  background: var(--button-hover);
+  transform: rotate(20deg);
+}
+.theme-toggle {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: var(--card-bg);
+  border: none;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 3px 8px var(--shadow-color);
+  transition: transform 0.3s ease-in-out;
+}
+
+.theme-toggle .icon {
+  font-size: 20px;
+  color: var(--text-color);
+}
+
+.theme-toggle:hover {
+  background: var(--button-hover);
+  transform: rotate(20deg);
+}
